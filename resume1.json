@@ -1,0 +1,62 @@
+{
+	"basics": {
+		"name": "Aryan Saurav",
+		"label": "Student",
+		"picture": "https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg",
+		"email": "2020kucp1015@iiitkota.ac.in",
+
+
+		"summary": "I am a student at IIIT Kota and pursuing my B.Tech in Computer Science and Engineering.",
+		"location": {
+			"address": "Patna",
+			"postalCode": "800023",
+			"city": "Patna",
+			"countryCode": "India",
+			"region": "Bihar"
+		},
+		"profiles": [
+		 {
+				"network": "Github",
+				"username": "ARYANSAURAV16",
+				"url": "https://github.com/ARYANSAURAV16"
+			},
+			{
+				"network": "linkedin",
+				"username": "Aryan Saurav",
+				"url": "https://www.linkedin.com/in/aryan-saurav-453a9a1bb"
+			}
+
+		]
+	},
+
+	"volunteer": [{
+		"organization": "HOPE Jaipur",
+		"position": "volunteer at ROH",
+		"website": "https://www.hopeeverywhere.in/",
+		"startDate": "2020-12-01",
+
+		"summary": "Ray of hope vertical works towards making the society aware about different social issues. Team members prepare short plays and perform it at different public places to achieve their motto of spreading social awareness."
+
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "B.Tech",
+		"startDate": "2020-12-02",
+
+
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java", "php", "MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports, Drama",
+		"keywords": [ "Badminton", "Comedian"]
+	}]
+}
